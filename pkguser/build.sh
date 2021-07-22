@@ -12,7 +12,7 @@ declare -r pkgkey="DBE7D3DD8C81D58D0A13D0E76BC26A17B9B7018A"
 declare -r pkgname="aurutils"
 
 if ! test -z "${pkgkey}"; then
-    gpg --recv-keys --keyserver "hkps://keys.openpgp.org" "${pkgkey}"
+    gpg --keyserver "hkps://keys.openpgp.org" --recv-keys "${pkgkey}"
 fi
 
 mkdir "${TRAVIS_TAG}"
