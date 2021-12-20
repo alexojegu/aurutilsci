@@ -1,4 +1,4 @@
-# aurutilsci [![Build Status](https://travis-ci.com/xeladejo/aurutilsci.svg?branch=main)](https://travis-ci.com/xeladejo/aurutilsci)
+# aurutilsci [![Build Status](https://travis-ci.com/xeladejo/aurutilsci.svg?branch=main)](https://app.travis-ci.com/xeladejo/aurutilsci)
 
 Use [Travis CI] for building and packaging [aurutils] from [AUR] and deploy it to [GitHub Releases] so it can be used
 as repository in [Arch Linux].
