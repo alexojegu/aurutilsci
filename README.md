@@ -1,4 +1,4 @@
-# aurutilsci [![Build Status](https://travis-ci.com/xeladejo/aurutilsci.svg?branch=main)](https://app.travis-ci.com/xeladejo/aurutilsci)
+# aurutilsci [![Build Status](https://travis-ci.com/alexojegu/aurutilsci.svg?branch=main)](https://app.travis-ci.com/alexojegu/aurutilsci)
 
 Use [Travis CI] for building and packaging [aurutils] from [AUR] and deploy it to [GitHub Releases] so it can be used
 as repository in [Arch Linux].
@@ -11,7 +11,7 @@ On GitHub:
 On Travis CI:
   - Add a `GITHUB_TOKEN` environment variable with the personal access token code as value.
 
-[GitHub Releases]: https://github.com/xeladejo/aurutilsci/releases
+[GitHub Releases]: https://github.com/alexojegu/aurutilsci/releases
 [Arch Linux]: https://www.archlinux.org
 [Travis CI]: https://travis-ci.com/
 [AUR]: https://aur.archlinux.org
